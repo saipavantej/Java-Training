@@ -1,4 +1,4 @@
-//
+// Generate table for any number
 import java.util.Scanner;
 class Test 
 {
