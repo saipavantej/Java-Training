@@ -1,4 +1,5 @@
-//number is a palindrome or not
+//number is a palindrome or not 
+
 import java.util.Scanner;
 class Test
 {
